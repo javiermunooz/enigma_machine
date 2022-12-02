@@ -29,5 +29,11 @@ To cipher some plain text, you will need to generate keys for the machine you wa
 
 To generate keys, select option 2 in the main menu and then select the desired machine configuration. Once you have done this, you can select option 1 in the main menu, select the machine you just generated the keys for and start typing your plain text.
 
+## License 📄
+
+_This project was built under MIT license, which basically means do whatever you want but don't forget to credit the original author! A short @javiermunooz will do the trick._
+
+Check out [LICENSE.md](LICENSE.md) for details.
+
 ---
 ⌨️ With ❤️ by [javiermunooz](https://github.com/javiermunooz) 
